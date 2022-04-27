@@ -1,0 +1,7 @@
+# type=IEAD
+# gtype=2D
+# x=angle (degrees)
+# y=energy (eV)
+# nx=201
+# ny=1242
+# title=Ion energy and angle distributions
